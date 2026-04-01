@@ -9,8 +9,8 @@
 
 body {
     font-family: "SF Pro JP", "SF Pro Display", "Hiragino Kaku Gothic Pro", "ヒラギノ角ゴ Pro W3", メイリオ, "Helvetica Neue", Arial, sans-serif;
-    background: none;
-    min-height: 100vh;
+    background: url('zootopia bg.jpg') center center / cover no-repeat fixed;
+    min-height: 100dvh;
     color: #1d1d1f;
     padding-top: 76px;
 }
